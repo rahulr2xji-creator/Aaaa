@@ -1,4 +1,0 @@
-requests
-pycryptodome
-protobuf
-urllib3
